@@ -35,7 +35,7 @@ namespace HangMan4
 
         public string Level(string level)
         {
-            string[] easy ={ "albert","sun", "earth", "ocean" };
+            string[] easy ={ "moon","sun", "earth", "ocean" };
             string[] hard = { "complexity", "ralativity", "science" };
             Random rand = new Random();
 
